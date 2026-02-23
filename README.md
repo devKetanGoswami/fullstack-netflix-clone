@@ -33,8 +33,14 @@ A Netflix-inspired streaming platform UI built using React.
 
 ## 📷 Screenshots
 
-(Add screenshots here later)
+### 🏠 Homepage
+![Homepage](./screenshots/homepage.png)
 
+### 🔐 Login Page
+![Login](./screenshots/login.png)
+
+### 🎬 Player Page
+![Player](./screenshots/player.png)
 ---
 
 ## 👨‍💻 Author
